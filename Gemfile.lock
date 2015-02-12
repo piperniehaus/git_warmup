@@ -60,4 +60,5 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  guard
   guard-rubocop
